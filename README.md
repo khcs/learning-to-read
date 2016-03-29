@@ -1,6 +1,6 @@
 ## Learning to Read Chest X-Rays
 ### Source code for the CVPR 2016 paper:
-Learning to Read Chest X-Rays: Recurrent Neural Cascade Model for Automated Image Annotation
+Learning to Read Chest X-Rays: Recurrent Neural Cascade Model for Automated Image Annotation ([arxiv](http://arxiv.org/abs/1603.08486))
 
 #### The source code is based on the:
 - [cifar.torch](https://github.com/szagoruyko/cifar.torch) by Sergey Zagoruyko, for the CNN training
@@ -18,4 +18,5 @@ Learning to Read Chest X-Rays: Recurrent Neural Cascade Model for Automated Imag
   - [Pandas](http://pandas.pydata.org/)
   - [Scikit-Learn](http://scikit-learn.org/stable/)
   - [Scikit-Image](http://scikit-image.org/)
+  - [iPython Notebook](http://ipython.org/notebook.html) - Optional
   - [NLTK](http://www.nltk.org/) - Optional
