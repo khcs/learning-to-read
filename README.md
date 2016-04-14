@@ -10,7 +10,7 @@ Learning to Read Chest X-Rays: Recurrent Neural Cascade Model for Automated Imag
 
 #### Dataset can be downloaded from the Open-i chest x-ray subset ([link](https://openi.nlm.nih.gov/gridquery.php?q=&it=xg&sub=x))
 
-#### The trained models can be downloaded:
+#### Trained models can be downloaded:
 - [CNN](https://drive.google.com/open?id=0B_g1jY2y9MKdeVpEb1FLVVA3Y28) - GoogLeNet model
 - [RNN-LSTM](https://drive.google.com/open?id=0B_g1jY2y9MKdVGdXR0lyY1FpbVk), [RNN-GRU](https://drive.google.com/open?id=0B_g1jY2y9MKdR3pWSURYRkZWdjQ)
 
